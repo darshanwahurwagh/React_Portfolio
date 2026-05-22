@@ -2,10 +2,10 @@
 A modern and fully responsive personal portfolio website built using React JS, designed to showcase professional profile, technical skills, projects, education, and contact information in a clean and interactive user interface.
 
 ## Features
-- # Home Section  
+- #### Home Section  
   Professional landing page with introduction, profile overview, profile image, and two action buttons.
 
-- # About Section  
+- #### About Section  
   Detailed information about background, career goals, technical expertise, and professional journey.
 
 - # Skills Section  
