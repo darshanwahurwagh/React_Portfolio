@@ -8,16 +8,16 @@ A modern and fully responsive personal portfolio website built using React JS, d
 - ### About Section  
   Detailed information about background, career goals, technical expertise, and professional journey.
 
-- ## Skills Section  
+- ### Skills Section  
   Showcase of technical skills, tools, frameworks, and technologies including frontend and backend development.
 
-- # Projects Section  
+- ### Projects Section  
   Display of featured projects with descriptions, technologies used, and live/demo links.
 
-- # Education Section  
+- ### Education Section  
   Academic qualifications, certifications, and educational background.
 
-- # Contact Section  
+- ### Contact Section  
   Responsive contact form for direct communication along with social media and professional profile links.
 
 ## Technologies Used
