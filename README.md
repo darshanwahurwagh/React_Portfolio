@@ -1,4 +1,4 @@
-# React JS Portfoli
+# React JS Portfolio
 A modern and fully responsive personal portfolio website built using React JS, designed to showcase professional profile, technical skills, projects, education, and contact information in a clean and interactive user interface.
 
 ## Features
