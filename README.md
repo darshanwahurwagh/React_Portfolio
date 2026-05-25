@@ -27,5 +27,5 @@ A modern and fully responsive personal portfolio website built using React JS, d
 - CSS3 / Tailwind CSS
 - Framer Motion
 - React Icons
-- ## Live link
--   - https://darshanwahurwagh.github.io/React_Portfolio/
+## Live link
+- https://darshanwahurwagh.github.io/React_Portfolio/
