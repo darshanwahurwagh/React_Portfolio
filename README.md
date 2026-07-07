@@ -1,8 +1,8 @@
-## Live links:-
+## Live links :-
 
-#### GitHub:- https://darshanwahurwagh.github.io/React_Portfolio/
+#### GitHub :- https://darshanwahurwagh.github.io/React_Portfolio/
 
-#### Vercel:- https://darshanwahurwagh.vercel.app/
+#### Vercel :- https://darshanwahurwagh.vercel.app/
 
 # React JS Portfolio
 A modern and fully responsive personal portfolio website built using React JS, designed to showcase professional profile, technical skills, projects, education, and contact information in a clean and interactive user interface.
